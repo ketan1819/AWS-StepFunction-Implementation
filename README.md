@@ -5,9 +5,9 @@
 
 ## 👨‍🎓 Student Details
 
-* **Name:** Your Name
-* **PRN:** Your PRN
-* **Batch:** Your Batch
+* **Name:** Ketan Sonawane
+* **PRN:** 202301040161
+* **Batch:** CCF2
 
 ---
 
